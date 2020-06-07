@@ -5,7 +5,7 @@ import numpy as np
 import tensorflow as tf
 from imutils import video
 
-CROP_SIZE = 512
+CROP_SIZE = 256
 DOWNSAMPLE_RATIO = 2
 
 
